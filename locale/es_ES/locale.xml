@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * locale.xml
+  *
+  * Copyright (c) 2003-2011 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings for the locale.
+  *
+  * $Id$
+  -->
+ 
+<locale name="es_ES" full_name="Español (España)">
+	
+	<message key="plugins.generic.Archives.displayName">Archives submissions Manager</message>
+	<message key="plugins.generic.Archives.description">Este Plugin permite listar Archives submissions por separado. </message>
+	<message key="plugins.generic.Archives.submissionsArchivesArchived">Archivados</message>	
+	<message key="plugins.generic.Archives.submissionsArchivesPublished">Publicados</message>	
+	<message key="plugins.generic.Archives.submissionsArchivesDeclined">Rechazados</message>	
+</locale>
