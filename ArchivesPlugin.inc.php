@@ -1,12 +1,15 @@
 <?php
 
 /**
- * @file CounterPlugin.inc.php
+ * @file ArchivesPlugin.inc.php
  *
  * Copyright (c) 2003-2011 John Willinsky
  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
  *
- * @class CounterPlugin
+ * With contributions from:
+ * 	- 2014 Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria
+ *
+ * @class ArchivesPlugin
  * @ingroup plugins_generic_counter
  *
  * @brief COUNTER plugin; provides COUNTER statistics.
